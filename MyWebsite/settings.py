@@ -36,6 +36,7 @@ TEMPLATE_DEBUG = DEBUG
 
 ALLOWED_HOSTS = []
 
+print'a change'
 
 # Application definition
 
